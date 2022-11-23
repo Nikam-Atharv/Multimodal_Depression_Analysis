@@ -1,4 +1,4 @@
-#Multimodal System for Depression Analysis using Machine Learning Techniques by Observing Human Behaviour
+# Multimodal System for Depression Analysis using Machine Learning Techniques by Observing Human Behaviour
 
 ## 1. EEG Module
 DATASET
